@@ -2,9 +2,12 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-I get a lot of questions by email. This way anyone can read the answer!
-
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+
+My name is Drew Minns! I'm a Lead Developer and Instructor with [HackerYou](http://hackeryou.com) in Toronto, Canada. 
+I'm passionate about tech education, semantics and punk. I create rad things at [drewminns.com](http://drewminns.com) and write at [medium.com/@drewisthe](https://medium.com/@drewisthe), [Six Revisions](http://sixrevisions) and soon, [Smashing Magazine](http://www.smashingmagazine.com/).
+
+Currently interested in React, PostCSS and ES2015.
 
 -
 
